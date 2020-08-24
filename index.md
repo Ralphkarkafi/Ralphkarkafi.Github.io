@@ -1,6 +1,6 @@
 ## Welcome to My Website
 
-It's still in a construction phase
+It's still under construction
 
 ### Markdown
 
