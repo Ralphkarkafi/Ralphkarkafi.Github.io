@@ -1,6 +1,6 @@
 `<style>
 body {
-  background-image: url('img_girl.jpg');
+  background-image: url('https://www.techandall.com/wp-content/uploads/2013/10/techandall_wallpaper_1.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
