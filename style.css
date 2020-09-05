@@ -117,7 +117,7 @@ main{
 body{
 
   background-color: #f3f3f3;
-  background-image: url('background.jpg');
+  background-image: url('Background1.jpg');
 
 }
 
@@ -206,7 +206,7 @@ header .header-courses {
 /*INDEX*/
 body {
   width: 0 auto;
-  background-image: url('background.jpg');
+  background-image: url('Background1.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
